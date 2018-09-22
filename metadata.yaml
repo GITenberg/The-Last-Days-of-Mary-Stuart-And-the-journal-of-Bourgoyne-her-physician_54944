@@ -1,10 +1,13 @@
 _repo: The-Last-Days-of-Mary-Stuart-And-the-journal-of-Bourgoyne-her-physician_54944
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Bourgoing, Dominque
     gutenberg_agent_id: '48112'
     url: http://www.gutenberg.org/2009/agents/48112
+covers:
+- cover_type: archival
+  image_path: 54944-h/images/cover.jpg
 creator:
   author:
     agent_name: Cowan, Sam K. (Sam Kinkade)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '8479'
     url: http://www.gutenberg.org/2009/agents/8479
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54944#The-Last-Days-of-Mary-Stuart-And-the-journal-of-Bourgoyne-her-physician
 gutenberg_issued: '2017-06-20'
 gutenberg_type: Text
 identifiers:
